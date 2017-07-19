@@ -7,6 +7,4 @@ aa
 sdgfs
 
 sdg
-sd
-g
 sda
